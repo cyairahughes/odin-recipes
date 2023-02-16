@@ -1,0 +1,39 @@
+body {
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-weight: lighter;
+    text-align: center;
+    background-color: white;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h3 {
+    background-color: black;
+    color: white;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
